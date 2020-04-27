@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd8011d3-57d6-4b06-89ad-6a067c7db352" name="Default Changelist" comment="" />
+    <list default="true" id="a01ce863-626f-4b08-af65-74a11d5707a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +19,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1b89jAXZRY2e7fbHPZ4r4Rp9upr" />
+  <component name="ProjectId" id="1b8GQcWuQ2cmlApERjQ7UNkueKk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,23 +27,91 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\karl_\OneDrive - Tartu Ülikool\Minu dokumendid\2019-2020\Intellij\Studiness GUI\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karl_\OneDrive - Tartu Ülikool\Minu dokumendid\2019-2020\Intellij\Studiness GUI" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karl_\OneDrive - Tartu Ülikool\Minu dokumendid\2019-2020\Intellij\Studiness GUI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Pea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pea" />
+      <module name="Studiness_GUI.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pea" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fd8011d3-57d6-4b06-89ad-6a067c7db352" name="Default Changelist" comment="" />
-      <created>1588002985103</created>
+      <changelist id="a01ce863-626f-4b08-af65-74a11d5707a7" name="Default Changelist" comment="" />
+      <created>1588006291339</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588002985103</updated>
+      <updated>1588006291339</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1588008269154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588008269154" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588006971657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588006971657" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1588017731521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588017731521" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1588017731521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588017731521" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1588017731521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588017731521" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1588017731521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588017731521" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588017731522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588017731522" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588017731522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588017731522" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588017731522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588017731522" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588017731522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588017731522" />
+    <state x="420" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588008214881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="420" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1588008214881" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588010953518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588010953518" />
   </component>
 </project>
