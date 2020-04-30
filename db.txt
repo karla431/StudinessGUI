@@ -1,9 +1,1 @@
-tere; K; asf, fas
-tere3; T; adsf
-tere4; T; karl
-asdf; P, R, T, E, K, L, N; tere, asdf, reme
-tere6; T; asdf2, asdf234, asdf, asdf23456, asdf234567, asdf23, asdf2345
-tere5; T; tere2, tere3, tere1
-adsf; R, T; tere
-tere2; T; karla2, karla23
-OOP; R, T, E; Ar, Ti, Vu
+OOP; N; Koolikott, Pinal, Arvuti

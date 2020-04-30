@@ -39,11 +39,16 @@ public class Tund {
 
     @Override
     public String toString() {
-        return "Tund{" +
-                "nimi='" + nimi + '\'' +
-                ", päevad='" + päevad + '\'' +
-                ", vajalikudAsjad=" + vajalikudAsjad +
-                '}';
+        return nimi;
+    }
+
+    public void eemaldaTund(){
+        olemasolevadTunnid.remove(this);
+        for (ArrayList<Tund> päev:tunniplaan) {
+            if(päev.contains(this)){
+                päev.remove(this);
+            }
+        }
     }
 
     public static boolean lisaTund(String nimi, Set<String> päevad, Set<String> asjad){
