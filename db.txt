@@ -1,1 +1,3 @@
-OOP; N; Koolikott, Pinal, Arvuti
+OOP; R, L, N; Rahakott, Koolikott, Pinal
+asdf; R, K, L; tere, asdf
+tere; K; 1, 2, 3

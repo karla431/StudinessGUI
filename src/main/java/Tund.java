@@ -27,6 +27,21 @@ public class Tund {
 
     public void setPäevad(Set<String> päevad) {
         this.päevad = päevad;
+        HashMap<String,Integer> päevadeIndeksid = new HashMap<>(); //Et tundide tunniplaani panemiseks omistada igale päevale vastav indeks tunniplaanis.
+        //Tunniplaan on maatriks, seega peab olema iga tund i-ndas tulbas vastavalt päevale.
+        for (ArrayList<Tund> päev:tunniplaan) {
+            if(päev.contains(this)) {
+                päev.remove(this);
+            }
+        }
+        int lugeja2 = 0;
+        for (String päev: new String[]{"E","T","K","N","R","L","P"}) {
+            päevadeIndeksid.put(päev, lugeja2); //Igale päevale omistatakse üks indeks.
+            lugeja2++;
+        }
+        for (String päev:päevad) { //Käiakse läbi kõik päevad, mil tund toimub.
+            tunniplaan.get(päevadeIndeksid.get(päev)).add(this); //Võetakse vastavalt tunniplaani maatriksi vastav rida ning lisatakse sinna antud tund.
+        }
     }
 
     public Set<String> getVajalikudAsjad() {
